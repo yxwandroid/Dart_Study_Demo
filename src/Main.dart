@@ -45,18 +45,10 @@ List<String> getContents(String content) {
       String itemStr = content.substring(itemPoision, itemPoision + itemLeng);
       mapStr[itemPoision] = itemStr;
       itemPoision+=item.length;//每找到一次返回下标
-      /*这里需要注意的细节是length是字符串的方法，是数组的属性。所以求字符串长度应该是.length（），而不是.length
-			 *
-			 * 这里就是说  第一次朋友找到了  count加1之后  继续接着找，
-			 * 这个时候就从“你” 开始找了   第二次找到之后  就从“，"开始找了
-			 * 找到之后  又从“们”开始找.....
-			 * indexOf两个参数  一个是要找的字符串，一个是从哪个下标开始找
-			 * */
+
       itemPoision=content.indexOf(item,itemPoision);//指定从哪个位置的下标往后找
     }
 
-//    String itemStr = content.substring(itemPoision, itemPoision + itemLeng);
-//    mapStr[itemPoision] = itemStr;
   }
 
   var sortedKeys = mapStr.keys.toList()..sort();
