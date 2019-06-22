@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2badae58-81e4-4f65-910c-9ba57a540bde" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MainDuration.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> d9ceaf5bed8dacebb14098d0fd382aec63e1d38c
       <change beforePath="$PROJECT_DIR$/src/Main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,14 +50,38 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1493429839">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dart" value="102" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Dart" value="102" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DartDemo.dart">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="57">
               <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+=======
+            <state relative-caret-position="54">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+>>>>>>> d9ceaf5bed8dacebb14098d0fd382aec63e1d38c
             </state>
           </provider>
         </entry>
@@ -62,6 +89,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.dart">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="336">
               <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
             </state>
@@ -101,6 +129,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
               <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+=======
+            <state relative-caret-position="36">
+              <caret line="13" selection-start-line="13" selection-end-line="61" />
+>>>>>>> d9ceaf5bed8dacebb14098d0fd382aec63e1d38c
             </state>
           </provider>
         </entry>
@@ -108,7 +140,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../FlutterSDK/bin/cache/dart-sdk/lib/async/timer.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
+            <state relative-caret-position="1224">
               <caret line="70" column="15" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="15" />
             </state>
           </provider>
@@ -117,8 +149,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../FlutterSDK/bin/cache/dart-sdk/lib/core/string.dart">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="6232">
               <caret line="330" column="9" selection-start-line="330" selection-start-column="9" selection-end-line="330" selection-end-column="9" />
+=======
+            <state relative-caret-position="10224">
+              <caret line="570" column="15" selection-start-line="570" selection-start-column="15" selection-end-line="570" selection-end-column="15" />
+>>>>>>> d9ceaf5bed8dacebb14098d0fd382aec63e1d38c
             </state>
           </provider>
         </entry>
@@ -186,7 +223,11 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wilson/Aochuang/FlutterSDK/bin/cache/dart-sdk/lib/core/regexp.dart" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560845618887" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560349999589" />
+>>>>>>> d9ceaf5bed8dacebb14098d0fd382aec63e1d38c
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -248,16 +289,21 @@
       <workItem from="1558082354897" duration="1299000" />
       <workItem from="1558339236780" duration="1833000" />
       <workItem from="1559206899009" duration="5000" />
+<<<<<<< HEAD
       <workItem from="1559715673040" duration="8933000" />
       <workItem from="1559725182223" duration="4698000" />
       <workItem from="1560339656858" duration="1631000" />
       <workItem from="1560758373789" duration="532000" />
       <workItem from="1560823900649" duration="392000" />
       <workItem from="1560845462031" duration="176000" />
+=======
+      <workItem from="1560349011986" duration="852000" />
+>>>>>>> d9ceaf5bed8dacebb14098d0fd382aec63e1d38c
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="21393000" />
   </component>
   <component name="ToolWindowManager">
@@ -265,6 +311,15 @@
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13509472" />
+=======
+    <option name="totallyTimeSpent" value="5883000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26655897" />
+>>>>>>> d9ceaf5bed8dacebb14098d0fd382aec63e1d38c
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,15 +329,20 @@
       <window_info id="Resources Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.23719957" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41272902" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26575342" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+>>>>>>> d9ceaf5bed8dacebb14098d0fd382aec63e1d38c
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.3291536" />
+      <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.001369863" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -316,6 +376,7 @@
     <entry file="file://$PROJECT_DIR$/man.js" />
     <entry file="file://$PROJECT_DIR$/DartDemo.dart">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="57">
           <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
@@ -345,27 +406,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+=======
+        <state relative-caret-position="54">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+>>>>>>> d9ceaf5bed8dacebb14098d0fd382aec63e1d38c
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../FlutterSDK/bin/cache/dart-sdk/lib/async/timer.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
+        <state relative-caret-position="1224">
           <caret line="70" column="15" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../FlutterSDK/bin/cache/dart-sdk/lib/core/string.dart">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="6232">
           <caret line="330" column="9" selection-start-line="330" selection-start-column="9" selection-end-line="330" selection-end-column="9" />
+=======
+        <state relative-caret-position="10224">
+          <caret line="570" column="15" selection-start-line="570" selection-start-column="15" selection-end-line="570" selection-end-column="15" />
+>>>>>>> d9ceaf5bed8dacebb14098d0fd382aec63e1d38c
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.dart">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="336">
           <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+=======
+        <state relative-caret-position="36">
+          <caret line="13" selection-start-line="13" selection-end-line="61" />
+>>>>>>> d9ceaf5bed8dacebb14098d0fd382aec63e1d38c
         </state>
       </provider>
     </entry>
