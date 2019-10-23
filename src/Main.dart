@@ -1,4 +1,22 @@
 main() {
+
+
+
+  String strw = "小海2019-07-17支付了wilson发起的<_wc_custom_link_ color=\"#037AFF\" href=\"weixin://weixinnewaa/opendetail?billno=ba88296e41bc8a76e58ec19bfc6bc7aa83309d75774a3f74dbd485d256b3d01ecc55f6bce92c01f5cf69aa10449efacd\">群收款</_wc_custom_link_>";
+
+//  strw.indexOf("<");
+
+  print( strw.indexOf("<"));
+  String sss =strw.substring(0,strw.indexOf("<"));
+  print(sss);
+
+
+
+
+
+//  String str = "<a href=\"weixin://findfriend/verifycontact\">发送朋友验证</a>";
+//
+//  print(str);
 //  String str = "[微笑]";
 //  String str = "[坏笑][左哼哼]";
 //  String str = "你好[坏笑][左哼哼][右哼哼]你好那你";
@@ -19,14 +37,54 @@ main() {
 
  // print(getContents(sb));
 
-  String filePath = "/storage/emulated/0/tencent/MicroMsg/WeiXin/mmexport1560820857375.jpg";
-  String fileName = filePath.substring(filePath.lastIndexOf("/")+1);
+//  String filePath = "/storage/emulated/0/tencent/MicroMsg/WeiXin/mmexport1560820857375.jpg";
+//  String fileName = filePath.substring(filePath.lastIndexOf("/")+1);
+//
+//
+//  print(fileName);
 
 
-  print(fileName);
+
+////  1563269406988
+////  1563269630965
+//  var now = new DateTime.now().millisecondsSinceEpoch;
+//
+//
+//  print(now);
+//  print(1563269630965-1563269406988);
+//   Set<UserInfo>  userinfo= Set();
+//
+//   UserInfo userInfo1= UserInfo();
+//   userInfo1.name = "问";
+//
+//   userinfo.add(userInfo1);
+//   userinfo.add(userInfo1);
+//   userinfo.add(userInfo1);
+//
+//
+//   print(userinfo.length);
+}
+
+
+class UserInfo{
+
+  String name;
+
+  @override
+  bool operator ==(Object other) =>
+      identical(this, other) ||
+          other is UserInfo &&
+              runtimeType == other.runtimeType &&
+              name == other.name;
+
+  @override
+  int get hashCode => name.hashCode;
+
 
 
 }
+
+
 
 ///获取文本数组
 List<String> getContents(String content) {
