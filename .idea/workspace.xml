@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2badae58-81e4-4f65-910c-9ba57a540bde" name="Default Changelist" comment="">
-<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MainDuration.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
->>>>>>> d9ceaf5bed8dacebb14098d0fd382aec63e1d38c
       <change beforePath="$PROJECT_DIR$/src/Main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
