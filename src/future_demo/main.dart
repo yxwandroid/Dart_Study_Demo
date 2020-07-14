@@ -1,6 +1,8 @@
 main() {
 
 
+
+
    new A()..print1()..print2();
 
 }
